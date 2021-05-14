@@ -20,7 +20,7 @@ e depois instale a relação de dependências que constam na pasta e arquivo -> 
 
 Assim todas as dependencias serão instaladas.
 
-NOTA: os arquivos de configuração (settings.py) com o SECURIT_KEY, não foram carregados no repositório. Você deve contruir o seu. 
+NOTA: os arquivos de configuração (settings.py) com o SECURIT_KEY, podem não está disponíveis no repositório. Você deve contruir o seu. 
 ---
 
 
